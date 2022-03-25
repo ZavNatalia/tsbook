@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9d93f796-0b1a-46ba-89bf-8f8253f0ad53" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bundler/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bundler/plugins/fetch-plugin.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bundler/plugins/unpkg-path-plugin.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/action-bar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/action-bar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/add-cell.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/add-cell.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/cell-list-item.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/cell-list-item.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/cell-list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/cell-list.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/code-cell.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/code-cell.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/code-editor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/code-editor.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/preview.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/preview.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/resizable.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/resizable.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/text-editor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/text-editor.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/use-actions.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/use-cumulative-code.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/use-typed-selector.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/action-creators/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/action-types/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/actions/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/cell.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/reducers/bundlesReducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/reducers/cellsReducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/reducers/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/store.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react-app-env.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.ts" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/local-client" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="257Fl2WkBAqOlCqfDSZSs7R8tuh" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/bundler" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d93f796-0b1a-46ba-89bf-8f8253f0ad53" name="Default Changelist" comment="" />
+      <created>1644870365855</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644870365855</updated>
+      <workItem from="1644870368709" duration="993000" />
+      <workItem from="1644871368970" duration="822000" />
+      <workItem from="1644923192763" duration="3987000" />
+      <workItem from="1645024316307" duration="3713000" />
+      <workItem from="1645100585770" duration="4077000" />
+      <workItem from="1645179486365" duration="7127000" />
+      <workItem from="1645441345650" duration="5146000" />
+      <workItem from="1645524950383" duration="3160000" />
+      <workItem from="1645541317437" duration="1494000" />
+      <workItem from="1645542819710" duration="4481000" />
+      <workItem from="1645707100346" duration="9626000" />
+      <workItem from="1646058778734" duration="611000" />
+      <workItem from="1646133712892" duration="5225000" />
+      <workItem from="1646210751391" duration="10286000" />
+      <workItem from="1646407039114" duration="740000" />
+      <workItem from="1646474379809" duration="4429000" />
+      <workItem from="1646833193684" duration="480000" />
+      <workItem from="1646936054018" duration="5285000" />
+      <workItem from="1647011889177" duration="608000" />
+      <workItem from="1647014635552" duration="6271000" />
+      <workItem from="1647282844060" duration="3605000" />
+      <workItem from="1647333658999" duration="1233000" />
+      <workItem from="1647359381264" duration="4622000" />
+      <workItem from="1647418953967" duration="9461000" />
+      <workItem from="1647437426174" duration="971000" />
+      <workItem from="1647440026897" duration="410000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2411" y="137" width="1000" height="846" key="#ESLint" timestamp="1645027681440">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2411" y="137" width="1000" height="846" key="#ESLint/1920.0.1920.1080/0.33.1920.1047@1920.0.1920.1080" timestamp="1645027681440" />
+    <state x="2538" y="344" width="745" height="439" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1644871590207">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2538" y="344" width="745" height="439" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1080/0.33.1920.1047@1920.0.1920.1080" timestamp="1644871590207" />
+    <state x="2826" y="228" width="468" height="704" key="#com.intellij.ide.util.MemberChooser" timestamp="1645801086925">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2826" y="228" width="468" height="704" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1080/0.33.1920.1047@1920.0.1920.1080" timestamp="1645801086925" />
+    <state width="1820" height="261" key="GridCell.Tab.0.bottom" timestamp="1645547301687">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1820" height="261" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.33.1920.1047@1920.0.1920.1080" timestamp="1645547301687" />
+    <state width="1820" height="261" key="GridCell.Tab.0.center" timestamp="1645547301687">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1820" height="261" key="GridCell.Tab.0.center/1920.0.1920.1080/0.33.1920.1047@1920.0.1920.1080" timestamp="1645547301687" />
+    <state width="1820" height="261" key="GridCell.Tab.0.left" timestamp="1645547301686">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1820" height="261" key="GridCell.Tab.0.left/1920.0.1920.1080/0.33.1920.1047@1920.0.1920.1080" timestamp="1645547301686" />
+    <state width="1820" height="261" key="GridCell.Tab.0.right" timestamp="1645547301687">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1820" height="261" key="GridCell.Tab.0.right/1920.0.1920.1080/0.33.1920.1047@1920.0.1920.1080" timestamp="1645547301687" />
+    <state x="612" y="225" width="1014" height="772" key="find.popup" timestamp="1647425258980">
+      <screen x="72" y="33" width="1848" height="1047" />
+    </state>
+    <state x="2481" y="198" width="1053" height="796" key="find.popup/1920.0.1920.1080/0.33.1920.1047@1920.0.1920.1080" timestamp="1647365338662" />
+    <state x="612" y="225" width="1014" height="772" key="find.popup/72.33.1848.1047@72.33.1848.1047" timestamp="1647425258980" />
+    <state x="2496" y="250" key="run.anything.popup" timestamp="1647015279213">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2496" y="250" key="run.anything.popup/1920.0.1920.1080/0.33.1920.1047@1920.0.1920.1080" timestamp="1647015279213" />
+  </component>
+</project>
