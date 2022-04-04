@@ -1,7 +1,11 @@
 {
   "name": "@tsbook/local-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
+  "repository": {
+    "type": "git",
+    "url": "github.com/ZavNatalia/tsbook"
+  },
   "files": [
     "dist"
   ],

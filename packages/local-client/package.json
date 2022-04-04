@@ -1,6 +1,10 @@
 {
   "name": "@tsbook/local-client",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "repository": {
+    "type": "git",
+    "url": "github.com/ZavNatalia/tsbook"
+  },
   "publishConfig": {
     "access": "public"
   },

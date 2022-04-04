@@ -1,7 +1,11 @@
 {
   "name": "tsbook",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
+  "repository": {
+    "type": "git",
+    "url": "github.com/ZavNatalia/tsbook"
+  },
   "bin": "dist/index.js",
   "publishConfig": {
     "access": "public"
